@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "title": "IMPORTANT",
+  "title": "IMPORTANT!",
   "message": "New version has been release!\nPlease download and install :)",
-  "download": "",
-  "playstore": "",
+  "download": "https://github.com/KhunHtetzNaing/Files/releases/download/2018/HDVideoDownloader.apk",
+  "playstore": "com.mgngoe.fhdvideo",
   "uninstall": false
 }
